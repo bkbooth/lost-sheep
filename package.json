@@ -1,0 +1,7 @@
+{
+  "name": "lost-sheep",
+  "version": "1.0.0",
+  "repository": "git@github.com:bkbooth/lost-sheep.git",
+  "author": "Ben Booth <bkbooth@gmail.com>",
+  "license": "BSD3"
+}
